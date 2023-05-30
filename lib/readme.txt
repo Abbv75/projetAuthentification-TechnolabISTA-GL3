@@ -1,0 +1,1 @@
+On ny mettra tout nos dependences (bootstrap, fontawesome, phpmailer, ...)
